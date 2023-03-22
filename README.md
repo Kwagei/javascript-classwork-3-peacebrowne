@@ -83,7 +83,6 @@ You are to carefully read the instructions and complete all of the PSETs below. 
     let table = ";
     for (let i = 1; i <= 10; i++) {
 
-        // if table is equal to 0 overwrite the value to the first value of the multiplication
         table += ` ${n} x ${i} = ${n * i} \n`
         
     }
