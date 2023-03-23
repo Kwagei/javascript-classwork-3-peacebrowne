@@ -26,6 +26,7 @@ You are to carefully read the instructions and complete all of the PSETs below. 
         }
     ```
 
+
 2. Write a JavaScript function that takes three numbers as arguments and returns the largest number.
 
     ```javascript
@@ -142,16 +143,16 @@ const shoppingCart = {
 ```javascript
 const calculator = {
     addition: function(n1,n2){
-        returnn1 + n2;
+        return n1 + n2;
     },
     subtraction: function(n1,n2){
-        returnn1 - n2;
+        return n1 - n2;
     },
     multiplication: function(n1,n2){
-        returnn1 * n2;
+        return n1 * n2;
     },
     division: function(n1,n2){
-        returnn1 / n2;
+        return n1 / n2;
     }
 }
 
